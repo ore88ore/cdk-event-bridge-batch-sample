@@ -4,7 +4,11 @@ This is a blank project for TypeScript development with CDK.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
-## Useful commands
+## 概要
+
+AWS CDKで EventBridge + Lambda の定期実行処理（バッチ処理）のサンプルプロジェクトです。
+
+## コマンド
 
  * `npm run build`   compile typescript to js
  * `npm run watch`   watch for changes and compile
